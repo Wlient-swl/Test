@@ -12,6 +12,6 @@ import java.util.List;
  */
 @Mapper
 public interface EmployeeDao {
-
+public void mm();
     public List<Employee> finadAll();
 }
